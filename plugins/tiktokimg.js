@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -62,7 +62,7 @@ cmd({
                       `👤 ${post.author.nickname}\n` +
                       `👁️ ${post.stats.views}\n` +
                       `❤️ ${post.stats.likes}\n\n` +
-                      `> SAHIL-MD`
+                      `> 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
         
         // Send all images from the post (up to 10)
         const imagesToSend = post.images.slice(0, 10)
