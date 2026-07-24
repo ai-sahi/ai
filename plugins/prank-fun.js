@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
@@ -48,7 +48,7 @@ async (conn, mek, m, {
             '⚠️ *Note:* All actions are for demonstration purposes only.',
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
             
-            '> *SAHIL-MD-HACKING-COMPLETE ☣*'
+            '> *𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩-HACKING-COMPLETE ☣*'
         ];
 
         for (const line of steps) {
