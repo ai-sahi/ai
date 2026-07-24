@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -55,8 +55,8 @@ cmd({
         })
         
         message += `━━━━━━━━━━━━━━━━━━\n\n`
-        message += `> SAHIL-MD FANCY TEXT\n`
-        message += `> Created by SAHIL-MD`
+        message += `> 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩 FANCY TEXT\n`
+        message += `> Created by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
         
         await conn.sendMessage(from, { 
             text: message 
