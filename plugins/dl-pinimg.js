@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -8,7 +8,7 @@ import { cmd } from '../command.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 
 function getPinterestSearch(query) {
     const apis = [
@@ -61,7 +61,7 @@ cmd({
         if (urls.length < 1) return reply('✧ No images found.')
         
         const medias = urls.slice(0, 10).map(url => ({ image: { url } }))
-        const caption = `> SAHIL-MD`
+        const caption = `> 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
         
         for (let media of medias) {
             await conn.sendMessage(from, media, { quoted: m })
