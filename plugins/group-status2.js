@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
@@ -6,7 +6,7 @@ import { cmd } from '../command.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 
 cmd({
     pattern: "gstatus2",
@@ -40,7 +40,7 @@ cmd({
                 `*Media without caption:*\n` +
                 `  Reply to any media with \`.gstatus\`\n\n` +
                 `━━━━━━━━━━━━━━━━━━\n` +
-                `~ *SAHIL-MD*`
+                `~ *𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*`
             );
         }
 
@@ -157,7 +157,7 @@ cmd({
             `✔️ *Sent Successfully:* ${successCount}\n` +
             `❌ *Failed:* ${failCount}\n\n` +
             `━━━━━━━━━━━━━━━━━━\n` +
-            `~ *ERFAN-MD*`
+            `~ *𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*`
         );
 
     } catch (error) {
