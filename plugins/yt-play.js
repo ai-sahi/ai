@@ -1,11 +1,11 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import axios from 'axios';
 import { cmd } from '../command.js';
 
 const __filename = fileURLToPath(import.meta.url);
 
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 
 // ═══════════════════════════════════════════════════════════
 // 🎵 SONG COMMAND — NeoTex ytplay API (no yt-search needed)
@@ -55,7 +55,7 @@ cmd({
 *Views:* ${result.views ? Number(result.views).toLocaleString() : "N/A"}
 *Format:* mp3 (128kbps)
 
-> powered by SAHIL-MD`
+> powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
 
         try {
             await conn.sendMessage(from, {
