@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
@@ -29,7 +29,7 @@ cmd({
 
         if (!imageUrl) {
             return await reply(`
-✂️ *REMOVE BACKGROUND – DARK ZONE MD* ✂️
+✂️ *REMOVE BACKGROUND – 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩* ✂️
 
 📸 Reply to an image OR provide an image URL.
 
@@ -81,7 +81,7 @@ cmd({
 📥 Downloaded & re-sent  
 
 🖤 Powered By  
-『🔥 SAHIL-MD 🔥』
+『𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩』
             `
         }, { quoted: mek });
 
