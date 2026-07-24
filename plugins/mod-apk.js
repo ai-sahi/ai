@@ -1,11 +1,11 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import axios from 'axios';
 import { cmd } from '../command.js';
 
 const __filename = fileURLToPath(import.meta.url);
 
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 
 
 cmd({
@@ -107,7 +107,7 @@ cmd({
 
 ⚠️ *Install at your own risk*
 
-🖤 *SAHIL-MD*
+🖤 *𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*
                             `
                         }, { quoted: received });
 
