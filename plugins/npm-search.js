@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -38,7 +38,7 @@ cmd({
 
     // Create the response message
     const message = `
-*SAHIL-MD NPM SEARCH*
+*𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩 NPM SEARCH*
 
 *🔰 NPM PACKAGE:* ${packageName}
 *📄 DESCRIPTION:* ${description}
