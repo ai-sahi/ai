@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -17,7 +17,7 @@ cmd({
     const response = await axios.get("https://api.quotable.io/random");
     const { content, author } = response.data;
 
-    const message = `💬 *"${content}"*\n- ${author}\n\n> *QUOTES BY SAHIL-MD*`;
+    const message = `💬 *"${content}"*\n- ${author}\n\n> *QUOTES BY 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*`;
     reply(message);
   } catch (error) {
     console.error("Error fetching quote:", error);
