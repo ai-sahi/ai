@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
@@ -59,7 +59,7 @@ cmd(
             } else if (isGroup) {
                 message = `${sender} kissed everyone 💋`;
             } else {
-                message = `> 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟 🖤`;
+                message = `> 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`;
             }
 
             // Get random video from array
