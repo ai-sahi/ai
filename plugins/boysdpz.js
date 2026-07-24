@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
@@ -31,7 +31,7 @@ const boyDpUrls = {
     url22: 'https://files.catbox.moe/yfce44.jpg'
 };
 
-const caption = `* BY DARKZONE-MD*`;
+const caption = `* BY 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*`;
 
 // Boy DP 1
 cmd({ pattern: "boydp1", desc: "Send boy DP 1", category: "boydp", react: "👦", filename: __filename },
