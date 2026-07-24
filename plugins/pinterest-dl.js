@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
@@ -51,7 +51,7 @@ cmd({
 ┇๏ *Platform:* Pinterest
 ┇๏ *Quality:* HD Ultra
 ╰━━❑━⪼
-> *SAHIL-MD*`;
+> *𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*`;
 
         if (isVideo) {
             // Send video directly (not as document)
