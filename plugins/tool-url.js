@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import axios from 'axios';
 import FormData from 'form-data';
@@ -6,7 +6,7 @@ import { cmd } from '../command.js';
 
 const __filename = fileURLToPath(import.meta.url);
 
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 
 // Multiple ImgBB API Keys (fallback system)
 const IMGBB_API_KEYS = [
