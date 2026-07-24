@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -72,7 +72,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
             from,
             {
                 image: { url: apiData.data.result },
-                caption: "> ✨ Image Enhanced Successfully by SAHIL-MD"
+                caption: "> ✨ Image Enhanced Successfully by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩"
             },
             { quoted: m }
         );
