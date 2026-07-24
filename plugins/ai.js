@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
@@ -14,7 +14,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *GPT-3.5 Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *GPT-3.5 Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -29,7 +29,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *GPT-4 Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *GPT-4 Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -44,7 +44,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *GPT-4o Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *GPT-4o Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -59,7 +59,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Claude Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Claude Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -74,7 +74,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Claude Opus Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Claude Opus Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -89,7 +89,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Gemini Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Gemini Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -104,7 +104,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Gemini Pro Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Gemini Pro Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -119,7 +119,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Grok Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Grok Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -134,7 +134,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Grok Beta Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Grok Beta Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -149,7 +149,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *DeepSeek Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *DeepSeek Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -164,7 +164,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *DeepSeek Coder Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *DeepSeek Coder Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -179,7 +179,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *LLaMA Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *LLaMA Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -194,7 +194,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *LLaMA 2 Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *LLaMA 2 Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -209,7 +209,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *LLaMA 3 Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *LLaMA 3 Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -224,7 +224,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Perplexity Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Perplexity Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -239,7 +239,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Mistral Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Mistral Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -254,7 +254,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *CodeLLaMA Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *CodeLLaMA Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -269,7 +269,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Bard Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Bard Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -284,7 +284,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Copilot Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Copilot Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -299,7 +299,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Copilot Pro Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Copilot Pro Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -314,7 +314,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *ChatGPT Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *ChatGPT Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -329,7 +329,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *ChatGPT Plus Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *ChatGPT Plus Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -344,7 +344,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *AI21 Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *AI21 Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -359,7 +359,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Jurassic Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Jurassic Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -374,7 +374,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Command-R Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Command-R Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -389,7 +389,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Command-R Plus Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Command-R Plus Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -404,7 +404,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Mixtral Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Mixtral Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -419,7 +419,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Phi Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Phi Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -434,7 +434,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Phi-2 Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Phi-2 Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -449,7 +449,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Phi-3 Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Phi-3 Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -464,7 +464,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Qwen Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Qwen Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -479,7 +479,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Yi Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Yi Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -494,7 +494,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Yi-34B Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Yi-34B Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -509,7 +509,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *StarCoder Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *StarCoder Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -524,7 +524,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Wizard Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Wizard Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -539,7 +539,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Vicuna Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Vicuna Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -554,7 +554,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Alpaca Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Alpaca Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -569,7 +569,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Falcon Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Falcon Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -584,7 +584,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *BLOOM Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *BLOOM Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -599,7 +599,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *GPT-NeoX Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *GPT-NeoX Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -614,7 +614,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Dolly Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Dolly Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -629,7 +629,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *StableLM Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *StableLM Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -644,7 +644,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *RedPajama Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *RedPajama Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -659,7 +659,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *OpenChat Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *OpenChat Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -674,7 +674,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Neural-Chat Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Neural-Chat Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -689,7 +689,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Solar Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Solar Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -704,7 +704,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Orca Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Orca Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -719,7 +719,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Wizard-Coder Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Wizard-Coder Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -734,7 +734,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *CodeT5 Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *CodeT5 Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -749,7 +749,7 @@ async (conn, mek, m, { q, reply }) => {
         const apiUrl = `https://api.nexray.eu.cc/ai/gpt-3.5-turbo?text=${encodeURIComponent(q)}`;
         const { data } = await axios.get(apiUrl);
         if (!data || !data.status) return reply("❌ API Error.");
-        reply(`🤖 *Starling Says:*\n\n${data.result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Starling Says:*\n\n${data.result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error(error.message);
         reply("❌ Failed to connect to API.");
@@ -794,7 +794,7 @@ async (conn, mek, m, { args, q, reply }) => {
         message += `*Original:* ${original}\n\n`;
         message += `*Corrected:* ${corrected}\n\n`;
         message += `*Errors Found:* ${error_count}\n\n`;
-        message += `~ SAHIL-MD`;
+        message += `~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`;
 
         reply(message);
     } catch (error) {
@@ -831,7 +831,7 @@ async (conn, mek, m, { args, q, reply }) => {
         }
 
         let result = data.result || "⚠️ No information received.";
-        reply(`🕌 *Islamic Information:*\n\n${result}\n\n~ SAHIL-MD`);
+        reply(`🕌 *Islamic Information:*\n\n${result}\n\n~ S𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error("Islamic API Error:", error.message);
         reply("❌ Failed to connect to Islamic API. Please try again later.");
@@ -866,7 +866,7 @@ async (conn, mek, m, { args, q, reply }) => {
         }
 
         let result = data.result || "⚠️ No response received from Kimi.";
-        reply(`🤖 *Kimi Says:*\n\n${result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Kimi Says:*\n\n${result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error("Kimi API Error:", error.message);
         reply("❌ Failed to connect to Kimi API. Please try again later.");
@@ -901,7 +901,7 @@ async (conn, mek, m, { args, q, reply }) => {
         }
 
         let result = data.result || "⚠️ No response received from Lumin.";
-        reply(`🤖 *Lumin Says:*\n\n${result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Lumin Says:*\n\n${result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error("Lumin API Error:", error.message);
         reply("❌ Failed to connect to Lumin API. Please try again later.");
@@ -936,7 +936,7 @@ async (conn, mek, m, { args, q, reply }) => {
         }
 
         let result = data.result || "⚠️ No response received from MathGPT.";
-        reply(`🧮 *MathGPT Says:*\n\n${result}\n\n~ SAHIL-MD`);
+        reply(`🧮 *MathGPT Says:*\n\n${result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error("MathGPT API Error:", error.message);
         reply("❌ Failed to connect to MathGPT API. Please try again later.");
@@ -972,7 +972,7 @@ async (conn, mek, m, { args, q, reply }) => {
         }
 
         let result = data.result || "⚠️ No response received from Perplexity.";
-        reply(`🤖 *Perplexity Says:*\n\n${result}\n\n~ SAHIL-MD`);
+        reply(`🤖 *Perplexity Says:*\n\n${result}\n\n~ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
     } catch (error) {
         console.error("Perplexity API Error:", error.message);
         reply("❌ Failed to connect to Perplexity API. Please try again later.");
