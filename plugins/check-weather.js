@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, q, reply }) => {
 > 💨 *Wind Speed*: ${data.wind.speed} m/s
 > 🔽 *Pressure*: ${data.main.pressure} hPa
 
-> *SAHIL-MD*
+> *𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*
 `;
         return reply(weather);
     } catch (e) {
