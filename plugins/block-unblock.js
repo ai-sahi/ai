@@ -1,4 +1,4 @@
-// ERFAN-MD - BLOCK/UNBLOCK/BLOCKLIST COMMANDS
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩 - BLOCK/UNBLOCK/BLOCKLIST COMMANDS
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
