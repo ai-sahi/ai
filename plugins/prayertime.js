@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -66,7 +66,7 @@ async(conn, mek, m, {from, l, quoted, body, isCmd, command, args, q, isGroup, se
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363429608867836@newsletter',
-                        newsletterName: 'SAHIL-MD',
+                        newsletterName: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
                         serverMessageId: 143
                     }
                 }
