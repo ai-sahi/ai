@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 
 cmd({
     pattern: "alive",
-    alias: ["darkzone", "status", "irfan", "test", "a"],
+    alias: ["𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩", "status", "𝐒𝐀𝐇𝐈𝐋", "test", "a"],
     react: "💚",
     desc: "Check if bot is alive with image, video note and live ping",
     category: "main",
@@ -37,7 +37,7 @@ async (conn, mek, m, { from, sender, reply }) => {
         const platform = os.platform();
 
         // Bot info from config
-        const botName = config.BOT_NAME || "DARKZONE-MD";
+        const botName = config.BOT_NAME || "𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩";
         const ownerName = config.OWNER_NAME || "DEVELOPER";
         const prefix = config.PREFIX || ".";
         const mode = config.MODE || "public";
@@ -76,7 +76,7 @@ async (conn, mek, m, { from, sender, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363429608867836@newsletter',
-                    newsletterName: 'SAHIL-MD',
+                    newsletterName: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
                     serverMessageId: 143
                 }
             }
