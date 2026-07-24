@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import config from '../config.js';
@@ -6,9 +6,9 @@ import { cmd, commands } from '../command.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Array of different fancy text styles for DARKZONE-MD
+// Array of different fancy text styles for 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 const botNameStyles = [
-    "SAHIL-MD"
+    "𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩"
 ];
 
 // Track current style index
