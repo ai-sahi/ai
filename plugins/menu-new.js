@@ -175,7 +175,7 @@ ${menuSections}
                         forwardingScore: 999, 
                         isForwarded: true, 
                         forwardedNewsletterMessageInfo: { 
-                            newsletterJid: '120363429608867836@newsletter"', 
+                            newsletterJid: '120363429608867836@newsletter', 
                             newsletterName: BOT_NAME, 
                             serverMessageId: 143 
                         } 
@@ -193,7 +193,7 @@ ${menuSections}
                 forwardingScore: 999, 
                 isForwarded: true, 
                 forwardedNewsletterMessageInfo: { 
-                    newsletterJid: '120363429608867836@newsletter"', 
+                    newsletterJid: '120363429608867836@newsletter', 
                     newsletterName: BOT_NAME, 
                     serverMessageId: 143 
                 } 
