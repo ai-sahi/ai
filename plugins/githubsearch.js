@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -53,7 +53,7 @@ async (conn, mek, m, { from, args, reply }) => {
 🛡️ *Admin:* ${data.admin ? "Yes" : "No"}
 
 ━━━━━━━━━━━━━━━
-⚡ Powered by *SAHIL-MD*
+⚡ Powered by *𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*
         `.trim();
 
         await conn.sendMessage(
