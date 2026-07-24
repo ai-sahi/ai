@@ -47,7 +47,7 @@ cmd({
         // ═══ STEP 2: Send info card ═══
         const safeTitle = (result.title || "song").replace(/[\\/:*?"<>|]/g, "").slice(0, 60)
 
-        const caption = `🎵 *ERFAN-MD SONG*
+        const caption = `🎵 *SAHIL-MD SONG*
 
 *Title:* ${result.title || "N/A"}
 *Channel:* ${result.channel || "N/A"}
