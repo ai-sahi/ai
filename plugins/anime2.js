@@ -1,4 +1,4 @@
-// ERFAN-MD
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
 import { fileURLToPath } from 'url';
 import path from 'path';
 import axios from 'axios';
@@ -49,7 +49,7 @@ cmd({
     try {
         const imageUrl = `https://api.nexray.eu.cc/random/ba`
         
-        const caption = `> DARKZONE-MD`
+        const caption = `> 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩
         
         await conn.sendMessage(from, {
             image: { url: imageUrl },
