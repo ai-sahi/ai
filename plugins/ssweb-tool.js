@@ -1,4 +1,4 @@
-// WALLYJAYTECH-MD — Screenshot Command (ESM)
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩 — Screenshot Command (ESM)
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { cmd } from '../command.js';
@@ -95,7 +95,7 @@ async (conn, mek, m, { from, q, reply, react }) => {
                          `📱 *View:* ${usedConfig.desc}\n` +
                          `📊 *Size:* ${usedConfig.dimension}\n` +
                          `⏰ *Time:* ${new Date().toLocaleString()}\n\n` +
-                         `*Powered by SAHIL-MD*`
+                         `*Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*`
             }, { quoted: mek });
 
             await react("✅");
