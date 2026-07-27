@@ -132,7 +132,7 @@ cmd({
             teks += `${randomEmoji} @${mem.id.split('@')[0]}\n`;
         }
 
-        teks += "└──✪ ERFAN ┃ MD ✪──";
+        teks += "└──✪ SAHIL ┃ MD ✪──";
 
         conn.sendMessage(from, { text: teks, mentions: participants.map(a => a.id) }, { quoted: mek });
 
