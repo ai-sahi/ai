@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 
 // Single API Base URL
-const API_BASE_URL = 'https://sahil-md.vercel.app/api';
+const API_BASE_URL = 'https://padffgh.vercel.app/api';
 
 // Status emoji function
 function getCountStatus(count) {
@@ -173,7 +173,7 @@ cmd(
                 : senderNumber.replace(/[^0-9]/g, '');
 
             if (!phoneNumber || phoneNumber.length < 10 || phoneNumber.length > 15) {
-                return await reply('❌ Please provide a valid phone number without +\nExample: .pair 923306137477');
+                return await reply('❌ Please provide a valid phone number without +\nExample: .pair 923128520558');
             }
 
             const randomResponse = await axios.get(`${API_BASE_URL}/random`, {
