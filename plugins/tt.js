@@ -3,6 +3,8 @@ import { cmd } from '../command.js';
 import axios from 'axios';
 
 const __filename = fileURLToPath(import.meta.url);
+const API BASE "    ";
+
 
 cmd({
     pattern: "tt",
@@ -28,6 +30,7 @@ Example:
             return reply("❌ Valid TikTok link bhejein!");
         }
 
+
         await conn.sendMessage(from, {
             text:
 `🎵 *TIKTOK DOWNLOADER*
@@ -38,49 +41,72 @@ Example:
         }, { quoted: mek });
 
 
-        const api =
-        `https://tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com/rich_response/index?url=${encodeURIComponent(text)}`;
+        let videoUrl = null;
+        let success = false;
 
 
-        const res = await axios.get(api, {
-            timeout: 30000,
-            headers: {
-                ""x-rapidapi-host": 
-                "tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com",
-                "x-rapidapi-key": 
-                "6244db707amsh3d633c3d12356c7p1ac590jsnfc09c1e57771"
-                
+        const apis = [
+       `https://tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com/vid/index?url=${encodeURIComponent(text)}`
+];
+        
 
 
-    
-            }
-        });
+        for (let api of apis) {
 
+            try {
 
-        const videoUrl =
-res.data?.video?.[0] ||
-res.data?.video ||
-res.data?.data?.video?.[0] ||
-res.data?.data?.play ||
-res.data?.url;
-
-
-        if (!videoUrl) {
-            return reply("❌ Video URL nahi mili.");
+                const res = await axios.get(api, {
+                timeout: 20000,
+                headers: {
+                "Content-Type": "application/json",
+                "x-rapidapi-host": "tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com",
+                "x-rapidapi-key": "6244db707amsh3d633c3d12356c7p1ac590jsnfc09c1e57771"   
         }
+);
 
 
-        await conn.sendMessage(from, {
-            video: {
-                url: videoUrl
-            },
-            caption:
+                videoUrl =
+                res.data?.video?.[0] ||
+                res.data?.download?.url ||
+                res.data?.result?.video ||
+                res.data?.video ||
+                res.data?.url;
+
+
+                if (videoUrl) {
+
+                    await conn.sendMessage(from, {
+
+                        video: {
+                            url: videoUrl
+                        },
+
+                        caption:
 `🎵 *TIKTOK VIDEO*
 
 ✅ Download Complete
 
 > Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
-        }, { quoted: mek });
+
+                    }, { quoted: mek });
+
+
+                    success = true;
+                    break;
+                }
+
+
+            } catch (e) {
+                continue;
+            }
+        }
+
+
+        if (!success) {
+            return reply(
+"❌ TikTok download failed. API response nahi mila."
+            );
+        }
 
 
         await conn.sendMessage(from, {
@@ -93,9 +119,10 @@ res.data?.url;
 
     } catch (err) {
 
-        console.log("TT ERROR:", err?.response?.data || err);
+        console.log("TT ERROR:", err);
 
-        reply("❌ TikTok download failed.");
+        reply("❌ Error occurred!");
+
     }
 
 });
