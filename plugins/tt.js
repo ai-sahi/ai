@@ -39,25 +39,30 @@ Example:
 
 
         const api =
-        `https://tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com/video?url=${encodeURIComponent(text)}`;
+        `https://tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com/rich_response/index?url=${encodeURIComponent(text)}`;
 
 
         const res = await axios.get(api, {
             timeout: 30000,
             headers: {
-                "Content-Type": "application/json",
-                "x-rapidapi-host":
+                ""x-rapidapi-host": 
                 "tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com",
-                "x-rapidapi-key":
-                "YOUR_RAPIDAPI_KEY"
+                "x-rapidapi-key": 
+                "6244db707amsh3d633c3d12356c7p1ac590jsnfc09c1e57771"
+                
+
+
+    
             }
         });
 
 
         const videoUrl =
-        res.data?.video?.[0] ||
-        res.data?.video ||
-        res.data?.url;
+res.data?.video?.[0] ||
+res.data?.video ||
+res.data?.data?.video?.[0] ||
+res.data?.data?.play ||
+res.data?.url;
 
 
         if (!videoUrl) {
