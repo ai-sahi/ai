@@ -3,8 +3,8 @@ import { cmd } from '../command.js';
 import axios from 'axios';
 
 const __filename = fileURLToPath(import.meta.url);
-const API BASE "    ";
 
+const API_BASE = "https://xjawadtech.vercel.app";
 
 cmd({
     pattern: "tt",
@@ -46,9 +46,10 @@ Example:
 
 
         const apis = [
-       `https://tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com/vid/index?url=${encodeURIComponent(text)}`
-];
-        
+            `${API_BASE}/tiktok?url=${encodeURIComponent(text)}`,
+            `${API_BASE}/tt?url=${encodeURIComponent(text)}`,
+            `${API_BASE}/tiktokdl?url=${encodeURIComponent(text)}`
+        ];
 
 
         for (let api of apis) {
@@ -56,17 +57,11 @@ Example:
             try {
 
                 const res = await axios.get(api, {
-                timeout: 20000,
-                headers: {
-                "Content-Type": "application/json",
-                "x-rapidapi-host": "tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com",
-                "x-rapidapi-key": "6244db707amsh3d633c3d12356c7p1ac590jsnfc09c1e57771"   
-        }
-);
+                    timeout: 20000
+                });
 
 
                 videoUrl =
-                res.data?.video?.[0] ||
                 res.data?.download?.url ||
                 res.data?.result?.video ||
                 res.data?.video ||
