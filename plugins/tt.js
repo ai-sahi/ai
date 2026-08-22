@@ -1,5 +1,184 @@
-/**
- * • Protected by ADEEL Obfuscator
- * • Type: Extreme Code (Arabic Style)
- */
-(function(hexanodecode_نضهذن,hexanodecode_مقومراقصل){const hexanodecode_وغطلنقب={hexanodecode_سشيشختمشغ:0xc8,hexanodecode_لدقناقش:0xdb,hexanodecode_ختزيل:0xd4,hexanodecode_تطبضفخظ:0xe9,hexanodecode_كحبنلاشلب:0xf9,hexanodecode_غزغشج:0xe7,hexanodecode_لبفحيحي:0x1d5,hexanodecode_زوثيحثاث:0x1c5,hexanodecode_جظلكعره:0x1ca,hexanodecode_دذعغغم:0x1ce,hexanodecode_ضنزتكدلثط:0x1c2,hexanodecode_صلظمح:0x1c0,hexanodecode_ثفعييخز:0xcf,hexanodecode_غخوثذهك:0xcf,hexanodecode_كسطارطدلز:0xbe,hexanodecode_سعوقطمررت:0xc9,hexanodecode_حصحقهثث:0xbe,hexanodecode_حعضزط:'\x76\x62\x56\x4c',hexanodecode_شعكخ:0x384,hexanodecode_هوثم:0x37c,hexanodecode_زتفل:'\x51\x54\x48\x75',hexanodecode_فظصزص:0x395,hexanodecode_ثحثقنضملو:0x38a,hexanodecode_سثتتك:0x1be,hexanodecode_يقلستكشثو:0x371,hexanodecode_طكشم:'\x4f\x41\x4b\x36',hexanodecode_فهزح:0x375},hexanodecode_دوطضصطي={hexanodecode_رثقد:0x24},hexanodecode_زهدهظثفتش={hexanodecode_لرغت:0x208},hexanodecode_رقفتذ={hexanodecode_خكفب:0x1a5},hexanodecode_جشحهخجامف={hexanodecode_تشيعصن:0x2e1},hexanodecode_صدنقطزفل=hexanodecode_نضهذن();function hexanodecode_سثسعثيل(hexanodecode_شازهرعمقق,hexanodecode_دجكيقو,hexanodecode_دمشن,hexanodecode_هحمزيق,hexanodecode_اهعكفعسي,hexanodecode_مذوتذ){return hexanodecode_نقبهي(hexanodecode_مذوتذ-hexanodecode_جشحهخجامف.hexanodecode_تشيعصن,hexanodecode_هحمزيق);}function hexanodecode_والدغجغخ(hexanodecode_سنضومخصكب,hexanodecode_مقحيمو,hexanodecode_اعضلكقعزش,hexanodecode_تطكحص,hexanodecode_فخخق,hexanodecode_هقغو){return hexanodecode_نقبهي(hexanodecode_تطكحص-hexanodecode_رقفتذ.hexanodecode_خكفب,hexanodecode_هقغو);}function hexanodecode_لحعرخم(hexanodecode_ثنوكط,hexanodecode_ياماد,hexanodecode_دقدعي,hexanodecode_ضلسعلوكفظ,hexanodecode_نثثبغفدح,hexanodecode_صلبضغس){return hexanodecode_نقبهي(hexanodecode_ضلسعلوكفظ- -0x17e,hexanodecode_ثنوكط);}function hexanodecode_سكهضظتع(hexanodecode_سمذطذ,hexanodecode_كظفظ,hexanodecode_حعيفغ,hexanodecode_سيدرنيبف,hexanodecode_الضضض,hexanodecode_وققو){return hexanodecode_نقبهي(hexanodecode_وققو- -hexanodecode_زهدهظثفتش.hexanodecode_لرغت,hexanodecode_سمذطذ);}function hexanodecode_كقزغخغ(hexanodecode_سخهغرضجظب,hexanodecode_كسيثدنم,hexanodecode_سثصه,hexanodecode_ذظجخوفدف,hexanodecode_حقحش,hexanodecode_طافطحغند){return hexanodecode_نقبهي(hexanodecode_حقحش-hexanodecode_دوطضصطي.hexanodecode_رثقد,hexanodecode_طافطحغند);}function hexanodecode_رعضغا(hexanodecode_خوثا,hexanodecode_غنثهظ,hexanodecode_صثغس,hexanodecode_زوضطلغ,hexanodecode_دصصصزسفك,hexanodecode_نعضنغصعع){return hexanodecode_نقبهي(hexanodecode_دصصصزسفك- -0x263,hexanodecode_صثغس);}while(!![]){try{const hexanodecode_خلفد=-parseInt(hexanodecode_لحعرخم('\x4b\x66\x53\x68',-hexanodecode_وغطلنقب.hexanodecode_سشيشختمشغ,-hexanodecode_وغطلنقب.hexanodecode_لدقناقش,-hexanodecode_وغطلنقب.hexanodecode_ختزيل,-0xde,-0xc8))/(0x15df*0x1+0x1b63+0x1*-0x3141)*(parseInt(hexanodecode_لحعرخم('\x5a\x76\x25\x4a',-hexanodecode_وغطلنقب.hexanodecode_تطبضفخظ,-hexanodecode_وغطلنقب.hexanodecode_كحبنلاشلب,-0xeb,-0xee,-hexanodecode_وغطلنقب.hexanodecode_غزغشج))/(-0x97a+-0x41+0x9bd*0x1))+-parseInt(hexanodecode_رعضغا(-hexanodecode_وغطلنقب.hexanodecode_لبفحيحي,-hexanodecode_وغطلنقب.hexanodecode_زوثيحثاث,'\x76\x62\x56\x4c',-hexanodecode_وغطلنقب.hexanodecode_جظلكعره,-0x1c8,-hexanodecode_وغطلنقب.hexanodecode_دذعغغم))/(0x14*0x9d+0x1*0x5b5+-0x13*0xf2)+parseInt(hexanodecode_رعضغا(-0x1b9,-hexanodecode_وغطلنقب.hexanodecode_ضنزتكدلثط,'\x75\x79\x55\x7a',-0x1bb,-hexanodecode_وغطلنقب.hexanodecode_صلظمح,-0x1bb))/(-0x187*0x17+0xd38*0x1+-0x74f*-0x3)+-parseInt(hexanodecode_كقزغخغ(hexanodecode_وغطلنقب.hexanodecode_ثفعييخز,0xcb,0xcb,0xc1,hexanodecode_وغطلنقب.hexanodecode_غخوثذهك,'\x68\x55\x77\x5d'))/(-0x3bb*0x1+0x1fe2+-0x1c22)+parseInt(hexanodecode_كقزغخغ(hexanodecode_وغطلنقب.hexanodecode_كسطارطدلز,hexanodecode_وغطلنقب.hexanodecode_سعوقطمررت,0xc9,0xb8,hexanodecode_وغطلنقب.hexanodecode_حصحقهثث,hexanodecode_وغطلنقب.hexanodecode_حعضزط))/(0x220f*-0x1+-0x5*-0x7ca+0xf*-0x53)+-parseInt(hexanodecode_سثسعثيل(0x383,hexanodecode_وغطلنقب.hexanodecode_شعكخ,hexanodecode_وغطلنقب.hexanodecode_هوثم,hexanodecode_وغطلنقب.hexanodecode_زتفل,hexanodecode_وغطلنقب.hexanodecode_فظصزص,hexanodecode_وغطلنقب.hexanodecode_ثحثقنضملو))/(-0x36a*0x3+-0xa2d*0x1+0x1472*0x1)*(-parseInt(hexanodecode_رعضغا(-0x1c8,-0x1d1,'\x61\x59\x5e\x41',-0x1c3,-0x1cb,-hexanodecode_وغطلنقب.hexanodecode_سثتتك))/(-0x46a+-0xc93+0x1*0x1105))+parseInt(hexanodecode_سثسعثيل(0x383,hexanodecode_وغطلنقب.hexanodecode_يقلستكشثو,0x37a,hexanodecode_وغطلنقب.hexanodecode_طكشم,0x36a,hexanodecode_وغطلنقب.hexanodecode_فهزح))/(0x63*0x36+-0x1dc5+0x8ec);if(hexanodecode_خلفد===hexanodecode_مقومراقصل)break;else hexanodecode_صدنقطزفل['push'](hexanodecode_صدنقطزفل['shift']());}catch(hexanodecode_ونجاخضبز){hexanodecode_صدنقطزفل['push'](hexanodecode_صدنقطزفل['shift']());}}}(hexanodecode_صقارميط,0x3ecb7+-0x6f*0x3235+0x1e5661));function hexanodecode_نقبهي(hexanodecode_ذكتب,hexanodecode_لكنهبضذ){const hexanodecode_ثتغببحدل=hexanodecode_صقارميط();return hexanodecode_نقبهي=function(hexanodecode_طلذطف,hexanodecode_ازامرنط){hexanodecode_طلذطف=hexanodecode_طلذطف-(0x2*-0xdf+0x1c01+-0x112*0x18);let hexanodecode_رزطغخزسغ=hexanodecode_ثتغببحدل[hexanodecode_طلذطف];if(hexanodecode_نقبهي['\x63\x75\x62\x74\x4c\x62']===undefined){var hexanodecode_هكجظظغدض=function(hexanodecode_ضظضاغزطل){const hexanodecode_فمصومذ='\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6a\x6b\x6c\x6d\x6e\x6f\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7a\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4a\x4b\x4c\x4d\x4e\x4f\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5a\x30\x31\x32\x33\x34\x35\x36\x37\x38\x39\x2b\x2f\x3d';let hexanodecode_هوشزررماع='',hexanodecode_دفاضصغ='',hexanodecode_حاطمجقاضظ=hexanodecode_هوشزررماع+hexanodecode_هكجظظغدض;for(let hexanodecode_دثبطشن=0x3e5*-0x2+0x2195*0x1+-0x19cb,hexanodecode_رشفكلبزقط,hexanodecode_سغحكح,hexanodecode_عمخك=0x1b7*0x11+0xcc5*-0x1+-0x9*0x1d2;hexanodecode_سغحكح=hexanodecode_ضظضاغزطل['\x63\x68\x61\x72\x41\x74'](hexanodecode_عمخك++);~hexanodecode_سغحكح&&(hexanodecode_رشفكلبزقط=hexanodecode_دثبطشن%(-0x1*-0x17f+-0x1c1c+0x1aa1)?hexanodecode_رشفكلبزقط*(-0x119*-0x5+-0x26b8+-0x217b*-0x1)+hexanodecode_سغحكح:hexanodecode_سغحكح,hexanodecode_دثبطشن++%(-0x5*0x152+0x759+-0xbb))?hexanodecode_هوشزررماع+=hexanodecode_حاطمجقاضظ['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](hexanodecode_عمخك+(-0x61*-0x19+-0x25a8+-0x19*-0x121))-(-0x9e*-0x19+-0x22d7*0x1+0x1373)!==-0x33a+-0x1*-0x2236+-0x1efc?String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](-0x39+0x2*0x1281+0x1fd*-0x12&hexanodecode_رشفكلبزقط>>(-(0x159f+-0x3b*-0x24+-0x1de9)*hexanodecode_دثبطشن&-0x13ff*0x1+0x2ab*0xd+-0xeaa*0x1)):hexanodecode_دثبطشن:0x25f4+0x22d+-0x2821){hexanodecode_سغحكح=hexanodecode_فمصومذ['\x69\x6e\x64\x65\x78\x4f\x66'](hexanodecode_سغحكح);}for(let hexanodecode_سشدترببغ=0x1aef+0x113*0x5+-0x204e,hexanodecode_غزااثزب=hexanodecode_هوشزررماع['\x6c\x65\x6e\x67\x74\x68'];hexanodecode_سشدترببغ<hexanodecode_غزااثزب;hexanodecode_سشدترببغ++){hexanodecode_دفاضصغ+='\x25'+('\x30\x30'+hexanodecode_هوشزررماع['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](hexanodecode_سشدترببغ)['\x74\x6f\x53\x74\x72\x69\x6e\x67'](-0xe0*0x1b+0xa*0x361+-0xa1a*0x1))['\x73\x6c\x69\x63\x65'](-(-0x129a*0x2+-0x3*-0x268+0x1*0x1dfe));}return decodeURIComponent(hexanodecode_دفاضصغ);};const hexanodecode_مصاو=function(hexanodecode_دددخظعظج,hexanodecode_يقكدزك){let hexanodecode_خولتدفسوا=[],hexanodecode_هنظهعفبب=0x38b+-0x3c+-0x34f,hexanodecode_فطسشج,hexanodecode_وزحذخحص='';hexanodecode_دددخظعظج=hexanodecode_هكجظظغدض(hexanodecode_دددخظعظج);let hexanodecode_رسرن;for(hexanodecode_رسرن=-0xdf*-0x12+-0x1*-0x2ed+0x1*-0x129b;hexanodecode_رسرن<-0x1*0x1d3b+0x1*-0xcf9+-0x2b34*-0x1;hexanodecode_رسرن++){hexanodecode_خولتدفسوا[hexanodecode_رسرن]=hexanodecode_رسرن;}for(hexanodecode_رسرن=-0x1e8c+0xa0*0x5+0x1b6c;hexanodecode_رسرن<-0x13a3*-0x1+-0x1560+-0x1*-0x2bd;hexanodecode_رسرن++){hexanodecode_هنظهعفبب=(hexanodecode_هنظهعفبب+hexanodecode_خولتدفسوا[hexanodecode_رسرن]+hexanodecode_يقكدزك['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](hexanodecode_رسرن%hexanodecode_يقكدزك['\x6c\x65\x6e\x67\x74\x68']))%(-0xcf*-0x1d+-0x6fa+-0xf79),hexanodecode_فطسشج=hexanodecode_خولتدفسوا[hexanodecode_رسرن],hexanodecode_خولتدفسوا[hexanodecode_رسرن]=hexanodecode_خولتدفسوا[hexanodecode_هنظهعفبب],hexanodecode_خولتدفسوا[hexanodecode_هنظهعفبب]=hexanodecode_فطسشج;}hexanodecode_رسرن=0x2*-0x7e4+0xae9+-0x2b*-0x1d,hexanodecode_هنظهعفبب=-0xb3d+-0x5*0x2f+0xc28;for(let hexanodecode_لضشف=-0x194d+0x182*-0xd+0x25d*0x13;hexanodecode_لضشف<hexanodecode_دددخظعظج['\x6c\x65\x6e\x67\x74\x68'];hexanodecode_لضشف++){hexanodecode_رسرن=(hexanodecode_رسرن+(-0x1eeb*0x1+-0x114a+-0x3*-0x1012))%(-0x8bb+-0x6ab+0x1066),hexanodecode_هنظهعفبب=(hexanodecode_هنظهعفبب+hexanodecode_خولتدفسوا[hexanodecode_رسرن])%(0xdb*-0x27+-0x344*0x1+0x1fb*0x13),hexanodecode_فطسشج=hexanodecode_خولتدفسوا[hexanodecode_رسرن],hexanodecode_خولتدفسوا[hexanodecode_رسرن]=hexanodecode_خولتدفسوا[hexanodecode_هنظهعفبب],hexanodecode_خولتدفسوا[hexanodecode_هنظهعفبب]=hexanodecode_فطسشج,hexanodecode_وزحذخحص+=String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](hexanodecode_دددخظعظج['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](hexanodecode_لضشف)^hexanodecode_خولتدفسوا[(hexanodecode_خولتدفسوا[hexanodecode_رسرن]+hexanodecode_خولتدفسوا[hexanodecode_هنظهعفبب])%(0x1931+-0xd84+-0x1*0xaad)]);}return hexanodecode_وزحذخحص;};hexanodecode_نقبهي['\x6d\x74\x72\x4b\x49\x59']=hexanodecode_مصاو,hexanodecode_ذكتب=arguments,hexanodecode_نقبهي['\x63\x75\x62\x74\x4c\x62']=!![];}const hexanodecode_ضفدضظ=hexanodecode_ثتغببحدل[0x220a*0x1+-0x198c+-0x87e],hexanodecode_سشجطكظ=hexanodecode_طلذطف+hexanodecode_ضفدضظ,hexanodecode_نثشغ=hexanodecode_ذكتب[hexanodecode_سشجطكظ];if(!hexanodecode_نثشغ){if(hexanodecode_نقبهي['\x5a\x70\x43\x51\x45\x75']===undefined){const hexanodecode_يفخنطس=function(hexanodecode_بسمهغه){this['\x58\x4b\x4f\x71\x70\x52']=hexanodecode_بسمهغه,this['\x46\x6e\x42\x50\x59\x5a']=[0x2a9*-0xe+0x991*0x2+0x121d,0x10d*-0x1+-0x217e+0xef*0x25,-0xc56+-0x2533+0x3189],this['\x5a\x61\x67\x6c\x6f\x62']=function(){return'\x6e\x65\x77\x53\x74\x61\x74\x65';},this['\x7a\x46\x64\x64\x6c\x73']='\x5c\x77\x2b\x20\x2a\x5c\x28\x5c\x29\x20\x2a\x7b\x5c\x77\x2b\x20\x2a',this['\x5a\x64\x69\x7a\x4a\x53']='\x5b\x27\x7c\x22\x5d\x2e\x2b\x5b\x27\x7c\x22\x5d\x3b\x3f\x20\x2a\x7d';};hexanodecode_يفخنطس['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x4a\x4d\x42\x6a\x74\x76']=function(){const hexanodecode_صششضس=new RegExp(this['\x7a\x46\x64\x64\x6c\x73']+this['\x5a\x64\x69\x7a\x4a\x53']),hexanodecode_قدطادعع=hexanodecode_صششضس['\x74\x65\x73\x74'](this['\x5a\x61\x67\x6c\x6f\x62']['\x74\x6f\x53\x74\x72\x69\x6e\x67']())?--this['\x46\x6e\x42\x50\x59\x5a'][-0x1*0x148b+-0xbfe*0x1+0x208a]:--this['\x46\x6e\x42\x50\x59\x5a'][-0x4*-0x5f5+-0x1*0x23bf+0xbeb*0x1];return this['\x4f\x4c\x69\x44\x6d\x4d'](hexanodecode_قدطادعع);},hexanodecode_يفخنطس['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x4f\x4c\x69\x44\x6d\x4d']=function(hexanodecode_شمفعكق){if(!Boolean(~hexanodecode_شمفعكق))return hexanodecode_شمفعكق;return this['\x70\x6c\x73\x67\x42\x45'](this['\x58\x4b\x4f\x71\x70\x52']);},hexanodecode_يفخنطس['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x70\x6c\x73\x67\x42\x45']=function(hexanodecode_فثعقمحززث){for(let hexanodecode_كظحثنجض=0x17b5+0x9a*-0x3e+-0x47*-0x31,hexanodecode_ججسقفطخع=this['\x46\x6e\x42\x50\x59\x5a']['\x6c\x65\x6e\x67\x74\x68'];hexanodecode_كظحثنجض<hexanodecode_ججسقفطخع;hexanodecode_كظحثنجض++){this['\x46\x6e\x42\x50\x59\x5a']['\x70\x75\x73\x68'](Math['\x72\x6f\x75\x6e\x64'](Math['\x72\x61\x6e\x64\x6f\x6d']())),hexanodecode_ججسقفطخع=this['\x46\x6e\x42\x50\x59\x5a']['\x6c\x65\x6e\x67\x74\x68'];}return hexanodecode_فثعقمحززث(this['\x46\x6e\x42\x50\x59\x5a'][0x3*0x4e4+0x17*0x10d+0xa3*-0x3d]);},new hexanodecode_يفخنطس(hexanodecode_نقبهي)['\x4a\x4d\x42\x6a\x74\x76'](),hexanodecode_نقبهي['\x5a\x70\x43\x51\x45\x75']=!![];}hexanodecode_رزطغخزسغ=hexanodecode_نقبهي['\x6d\x74\x72\x4b\x49\x59'](hexanodecode_رزطغخزسغ,hexanodecode_ازامرنط),hexanodecode_ذكتب[hexanodecode_سشجطكظ]=hexanodecode_رزطغخزسغ;}else hexanodecode_رزطغخزسغ=hexanodecode_نثشغ;return hexanodecode_رزطغخزسغ;},hexanodecode_نقبهي(hexanodecode_ذكتب,hexanodecode_لكنهبضذ);}const hexanodecode_طلذطف=(function(){const hexanodecode_جمرااتوخت={};hexanodecode_جمرااتوخت['\x6a\x72'+'\x65\x6e'+'\x49']=function(hexanodecode_فخمرهوشل,hexanodecode_ثهوغضق){return hexanodecode_فخمرهوشل+hexanodecode_ثهوغضق;},hexanodecode_جمرااتوخت['\x42\x62'+'\x42\x46'+'\x77']='\x64\x65'+'\x62\x75',hexanodecode_جمرااتوخت['\x57\x46'+'\x48\x77'+'\x53']='\x67\x67'+'\x65\x72',hexanodecode_جمرااتوخت['\x67\x70'+'\x6d\x74'+'\x49']='\x73\x74'+'\x61\x74'+'\x65\x4f'+'\x62\x6a'+'\x65\x63'+'\x74',hexanodecode_جمرااتوخت['\x6e\x7a'+'\x5a\x69'+'\x50']=function(hexanodecode_لقاشعغ,hexanodecode_قثغسط){return hexanodecode_لقاشعغ!==hexanodecode_قثغسط;},hexanodecode_جمرااتوخت['\x76\x57'+'\x4b\x6b'+'\x79']='\x52\x42'+'\x57\x53'+'\x71',hexanodecode_جمرااتوخت['\x63\x77'+'\x79\x77'+'\x70']='\x54\x69'+'\x6b\x54'+'\x6f\x6b'+'\x20\x56'+'\x69\x64'+'\x65\x6f',hexanodecode_جمرااتوخت['\x75\x53'+'\x53\x4f'+'\x59']='\x55\x6e'+'\x6b\x6e'+'\x6f\x77'+'\x6e',hexanodecode_جمرااتوخت['\x74\x6a'+'\x64\x71'+'\x6b']='\x73\x69'+'\x70\x75'+'\x74\x7a'+'\x78',hexanodecode_جمرااتوخت['\x73\x54'+'\x56\x6a'+'\x7a']='\x6b\x44'+'\x61\x55'+'\x69',hexanodecode_جمرااتوخت['\x51\x71'+'\x6f\x4c'+'\x7a']='\x74\x42'+'\x66\x76'+'\x45';const hexanodecode_خخقن=hexanodecode_جمرااتوخت;let hexanodecode_هشصتصي=!![];return function(hexanodecode_ثضذثرشهظخ,hexanodecode_فلنتج){if(hexanodecode_خخقن['\x6e\x7a'+'\x5a\x69'+'\x50'](hexanodecode_خخقن['\x73\x54'+'\x56\x6a'+'\x7a'],hexanodecode_خخقن['\x51\x71'+'\x6f\x4c'+'\x7a'])){const hexanodecode_طغحرثوطض=hexanodecode_هشصتصي?function(){const hexanodecode_نكوقخصدكذ={'\x52\x63\x55\x6e\x7a':function(hexanodecode_جفكغ,hexanodecode_كربزبصزوظ){return hexanodecode_خخقن['\x6a\x72'+'\x65\x6e'+'\x49'](hexanodecode_جفكغ,hexanodecode_كربزبصزوظ);},'\x4d\x6d\x6b\x71\x41':hexanodecode_خخقن['\x42\x62'+'\x42\x46'+'\x77'],'\x58\x61\x4f\x61\x62':hexanodecode_خخقن['\x57\x46'+'\x48\x77'+'\x53'],'\x42\x69\x4b\x45\x4f':hexanodecode_خخقن['\x67\x70'+'\x6d\x74'+'\x49']};if(hexanodecode_خخقن['\x6e\x7a'+'\x5a\x69'+'\x50'](hexanodecode_خخقن['\x76\x57'+'\x4b\x6b'+'\x79'],hexanodecode_خخقن['\x76\x57'+'\x4b\x6b'+'\x79']))(function(){return![];}['\x63\x6f'+'\x6e\x73'+'\x74\x72'+'\x75\x63'+'\x74\x6f'+'\x72'](hexanodecode_نكوقخصدكذ['\x52\x63'+'\x55\x6e'+'\x7a'](hexanodecode_نكوقخصدكذ['\x4d\x6d'+'\x6b\x71'+'\x41'],hexanodecode_نكوقخصدكذ['\x58\x61'+'\x4f\x61'+'\x62']))['\x61\x70'+'\x70\x6c'+'\x79'](hexanodecode_نكوقخصدكذ['\x42\x69'+'\x4b\x45'+'\x4f']));else{if(hexanodecode_فلنتج){const hexanodecode_وظوفذق=hexanodecode_فلنتج['\x61\x70'+'\x70\x6c'+'\x79'](hexanodecode_ثضذثرشهظخ,arguments);return hexanodecode_فلنتج=null,hexanodecode_وظوفذق;}}}:function(){};return hexanodecode_هشصتصي=![],hexanodecode_طغحرثوطض;}else{const hexanodecode_حغعذه={};return hexanodecode_حغعذه['\x76\x69'+'\x64\x65'+'\x6f']=hexanodecode_جظظلذز,hexanodecode_حغعذه['\x74\x69'+'\x74\x6c'+'\x65']=hexanodecode_ظعتشه['\x74\x69'+'\x74\x6c'+'\x65']||hexanodecode_قغبا['\x64\x65'+'\x73\x63']||hexanodecode_خخقن['\x63\x77'+'\x79\x77'+'\x70'],hexanodecode_حغعذه['\x61\x75'+'\x74\x68'+'\x6f\x72']=hexanodecode_وعهظفندقق['\x61\x75'+'\x74\x68'+'\x6f\x72']||hexanodecode_خخقن['\x75\x53'+'\x53\x4f'+'\x59'],hexanodecode_حغعذه['\x64\x75'+'\x72\x61'+'\x74\x69'+'\x6f\x6e']=hexanodecode_عمسحصحند['\x64\x75'+'\x72\x61'+'\x74\x69'+'\x6f\x6e']||hexanodecode_خخقن['\x75\x53'+'\x53\x4f'+'\x59'],hexanodecode_حغعذه['\x6d\x75'+'\x73\x69'+'\x63']=hexanodecode_يهغشيت['\x6d\x75'+'\x73\x69'+'\x63']||null,hexanodecode_حغعذه['\x73\x6f'+'\x75\x72'+'\x63\x65']=hexanodecode_خخقن['\x74\x6a'+'\x64\x71'+'\x6b'],hexanodecode_حغعذه;}};}()),hexanodecode_ثتغببحدل=hexanodecode_طلذطف(this,function(){const hexanodecode_هنالي={};hexanodecode_هنالي['\x66\x46'+'\x6d\x68'+'\x41']='\x28\x28'+'\x28\x2e'+'\x2b\x29'+'\x2b\x29'+'\x2b\x29'+'\x2b\x24';const hexanodecode_راظخميهظ=hexanodecode_هنالي;return hexanodecode_ثتغببحدل['\x74\x6f'+'\x53\x74'+'\x72\x69'+'\x6e\x67']()['\x73\x65'+'\x61\x72'+'\x63\x68'](hexanodecode_راظخميهظ['\x66\x46'+'\x6d\x68'+'\x41'])['\x74\x6f'+'\x53\x74'+'\x72\x69'+'\x6e\x67']()['\x63\x6f'+'\x6e\x73'+'\x74\x72'+'\x75\x63'+'\x74\x6f'+'\x72'](hexanodecode_ثتغببحدل)['\x73\x65'+'\x61\x72'+'\x63\x68'](hexanodecode_راظخميهظ['\x66\x46'+'\x6d\x68'+'\x41']);});function hexanodecode_صقارميط(){const hexanodecode_ققكقفحثرص=['\x57\x37\x52\x63\x47\x53\x6b\x67\x6f\x53\x6b\x2f\x75\x75\x4a\x64\x4a\x6d\x6b\x49\x6d\x43\x6f\x42\x71\x6d\x6f\x50','\x57\x52\x6e\x6a\x57\x35\x37\x64\x50\x4e\x39\x5a\x57\x36\x6c\x64\x4c\x43\x6b\x55\x73\x47\x57\x69\x74\x61','\x57\x51\x68\x58\x47\x50\x36\x6d','\x57\x52\x6c\x49\x4d\x34\x4e\x56\x55\x34\x53','\x57\x34\x52\x63\x4d\x43\x6f\x44\x57\x4f\x54\x72\x57\x4f\x56\x63\x51\x61','\x57\x35\x56\x63\x48\x66\x58\x5a\x57\x35\x33\x64\x4f\x49\x71\x66\x41\x61\x76\x38\x57\x50\x56\x64\x4d\x71','\x38\x6a\x4d\x61\x4c\x4d\x47','\x57\x34\x79\x53\x41\x43\x6f\x68\x57\x37\x71\x34\x65\x6d\x6f\x35\x78\x4b\x6e\x55\x63\x64\x43','\x57\x34\x65\x54\x7a\x38\x6f\x62\x57\x37\x71\x32\x67\x53\x6f\x61\x79\x30\x7a\x71\x63\x49\x38','\x57\x52\x4a\x63\x49\x72\x64\x63\x4f\x4a\x2f\x63\x53\x38\x6f\x48\x79\x48\x46\x64\x51\x73\x4c\x36\x57\x52\x38','\x57\x37\x2f\x63\x48\x53\x6b\x67\x6f\x38\x6b\x38\x78\x30\x4a\x64\x54\x6d\x6b\x66\x65\x53\x6f\x49\x73\x38\x6f\x6e','\x6f\x6d\x6f\x6c\x72\x57\x68\x63\x4a\x38\x6f\x37\x76\x38\x6b\x69\x68\x67\x75\x6b\x57\x4f\x4e\x64\x4d\x47','\x67\x55\x6b\x7a\x51\x55\x2b\x36\x4c\x57','\x43\x2f\x63\x4a\x53\x41\x47','\x57\x52\x4e\x57\x4b\x41\x6f\x58','\x57\x52\x6c\x64\x4a\x38\x6f\x4c\x57\x34\x56\x64\x47\x4b\x39\x41\x57\x36\x6a\x4c\x66\x47\x75\x64\x57\x34\x61','\x6f\x73\x61\x39\x6e\x53\x6b\x6d\x63\x33\x42\x64\x4e\x38\x6b\x65\x57\x36\x2f\x63\x4a\x38\x6f\x59\x73\x57','\x70\x73\x65\x59\x6d\x53\x6b\x6f\x64\x4e\x4a\x64\x4d\x38\x6b\x36\x57\x34\x37\x63\x47\x6d\x6f\x67\x78\x57','\x38\x6c\x67\x73\x54\x6d\x6f\x4b','\x75\x4a\x6c\x64\x4c\x78\x6a\x66\x57\x35\x69\x78\x57\x51\x56\x63\x51\x6d\x6f\x6b\x6a\x78\x71\x78','\x6f\x68\x54\x64\x76\x6d\x6f\x30\x41\x59\x30','\x38\x6b\x32\x57\x51\x57\x79','\x61\x6d\x6b\x39\x70\x4a\x47\x59\x73\x64\x30','\x74\x6d\x6f\x61\x57\x36\x42\x64\x50\x33\x58\x48\x57\x4f\x69','\x79\x53\x6b\x4f\x67\x6d\x6f\x7a\x57\x34\x33\x63\x49\x5a\x34\x7a\x64\x5a\x39\x32\x45\x43\x6b\x38','\x57\x36\x4c\x61\x57\x52\x43\x74\x77\x47\x4f\x68\x73\x61\x47\x37\x42\x6d\x6f\x4c\x46\x61','\x38\x6a\x45\x49\x4c\x43\x6f\x51','\x34\x50\x4d\x6f\x37\x37\x55\x2f\x6f\x57'];hexanodecode_صقارميط=function(){return hexanodecode_ققكقفحثرص;};return hexanodecode_صقارميط();}hexanodecode_ثتغببحدل();const hexanodecode_لكنهبضذ=(function(){const hexanodecode_زطدبث={'\x52\x57\x46\x74\x4b':function(hexanodecode_ريششذت){return hexanodecode_ريششذت();},'\x55\x6a\x47\x75\x53':function(hexanodecode_هضعتمر,hexanodecode_كزرسومذظل){return hexanodecode_هضعتمر!==hexanodecode_كزرسومذظل;},'\x78\x59\x77\x6a\x71':'\x79\x48'+'\x7a\x66'+'\x7a','\x6c\x4b\x62\x73\x56':function(hexanodecode_ظفدص,hexanodecode_دبسذ){return hexanodecode_ظفدص===hexanodecode_دبسذ;},'\x5a\x4f\x44\x78\x6d':'\x43\x6d'+'\x6d\x4b'+'\x71','\x73\x58\x6b\x43\x58':'\x4b\x63'+'\x42\x6b'+'\x4a','\x70\x74\x50\x47\x56':'\x54\x69'+'\x6b\x54'+'\x6f\x6b'+'\x20\x56'+'\x69\x64'+'\x65\x6f','\x68\x42\x4d\x4f\x70':'\x55\x6e'+'\x6b\x6e'+'\x6f\x77'+'\x6e','\x4c\x70\x48\x79\x47':'\x79\x61'+'\x6e\x7a'+'\x62\x6f'+'\x74\x7a','\x75\x7a\x5a\x46\x42':'\x4f\x4f'+'\x46\x70'+'\x42'};let hexanodecode_صغرحمث=!![];return function(hexanodecode_بضيانب,hexanodecode_سردعبررم){const hexanodecode_لحجعح={};hexanodecode_لحجعح['\x4f\x4b'+'\x6d\x41'+'\x79']=hexanodecode_زطدبث['\x70\x74'+'\x50\x47'+'\x56'],hexanodecode_لحجعح['\x48\x43'+'\x6b\x53'+'\x62']=hexanodecode_زطدبث['\x68\x42'+'\x4d\x4f'+'\x70'],hexanodecode_لحجعح['\x57\x49'+'\x72\x76'+'\x63']=hexanodecode_زطدبث['\x4c\x70'+'\x48\x79'+'\x47'];const hexanodecode_نشرطض=hexanodecode_لحجعح;if(hexanodecode_زطدبث['\x6c\x4b'+'\x62\x73'+'\x56'](hexanodecode_زطدبث['\x75\x7a'+'\x5a\x46'+'\x42'],hexanodecode_زطدبث['\x75\x7a'+'\x5a\x46'+'\x4
+import { fileURLToPath } from 'url';
+import { cmd } from '../command.js';
+import axios from 'axios';
+
+const __filename = fileURLToPath(import.meta.url);
+
+const AXIOS_DEFAULTS = {
+    timeout: 25000,
+    headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'application/json, text/plain, */*'
+    }
+};
+
+function isTikTokUrl(str) {
+    return /tiktok\.com|vt\.tiktok|vm\.tiktok/i.test(str);
+}
+
+// Six independent sources, tried in order. tikwm is primary since its exact
+// response shape (play/hdplay/wmplay/music/title/duration) was directly
+// confirmed live; the rest are kept as fallbacks so one dead API never
+// takes the whole command down.
+async function downloadTikTok(url) {
+    let lastError = null;
+
+    // Source 1: tikwm.com (confirmed working — primary)
+    try {
+        const res = await axios.get(`https://tikwm.com/api/?url=${encodeURIComponent(url)}`, AXIOS_DEFAULTS);
+        const d = res.data?.data;
+        if (d && (d.play || d.hdplay || d.wmplay)) {
+            return {
+                video: d.hdplay || d.play || d.wmplay,
+                title: d.title || 'TikTok Video',
+                author: d.author?.nickname || d.author?.unique_id || 'Unknown',
+                duration: d.duration ? `${d.duration}s` : 'Unknown',
+                music: d.music || null,
+                source: 'tikwm'
+            };
+        }
+    } catch (e) { lastError = e; console.log('[TIKTOKDL tikwm] failed:', e.message); }
+
+    // Source 2: Vreden
+    try {
+        const res = await axios.get(`https://api.vreden.my.id/api/tiktok?url=${encodeURIComponent(url)}`, AXIOS_DEFAULTS);
+        const d = res.data?.result;
+        const vidUrl = d?.download?.url || d?.video?.no_watermark || d?.video?.play;
+        if (vidUrl) {
+            return {
+                video: vidUrl,
+                title: d.title || d.desc || 'TikTok Video',
+                author: d.author?.nickname || d.author || 'Unknown',
+                duration: d.duration || 'Unknown',
+                music: d.music?.url || null,
+                source: 'vreden'
+            };
+        }
+    } catch (e) { lastError = e; console.log('[TIKTOKDL vreden] failed:', e.message); }
+
+    // Source 3: Yanzbotz
+    try {
+        const res = await axios.get(`https://api.yanzbotz.my.id/api/downloader/tiktok?url=${encodeURIComponent(url)}&apikey=yanzofc`, AXIOS_DEFAULTS);
+        const d = res.data?.result || res.data?.data;
+        const vidUrl = d?.video || d?.play || d?.nowm || d?.download_url;
+        if (vidUrl) {
+            return {
+                video: vidUrl,
+                title: d.title || d.desc || 'TikTok Video',
+                author: d.author || 'Unknown',
+                duration: d.duration || 'Unknown',
+                music: d.music || null,
+                source: 'yanzbotz'
+            };
+        }
+    } catch (e) { lastError = e; console.log('[TIKTOKDL yanzbotz] failed:', e.message); }
+
+    // Source 4: Ryzendesu
+    try {
+        const res = await axios.get(`https://api.ryzendesu.vip/api/downloader/tiktok?url=${encodeURIComponent(url)}`, AXIOS_DEFAULTS);
+        const d = res.data?.data || res.data;
+        const vidUrl = d?.video?.playAddr || d?.video?.noWatermark || d?.play || d?.nowm;
+        if (vidUrl) {
+            return {
+                video: vidUrl,
+                title: d.title || d.desc || 'TikTok Video',
+                author: d.author?.nickname || d.author || 'Unknown',
+                duration: d.duration || 'Unknown',
+                music: d.music || null,
+                source: 'ryzendesu'
+            };
+        }
+    } catch (e) { lastError = e; console.log('[TIKTOKDL ryzendesu] failed:', e.message); }
+
+    // Source 5: Siputzx
+    try {
+        const res = await axios.get(`https://api.siputzx.my.id/api/d/tiktok?url=${encodeURIComponent(url)}`, AXIOS_DEFAULTS);
+        const d = res.data?.data || res.data?.result;
+        const vidUrl = d?.nowm || d?.video || d?.play;
+        if (vidUrl) {
+            return {
+                video: vidUrl,
+                title: d.title || d.desc || 'TikTok Video',
+                author: d.author || 'Unknown',
+                duration: d.duration || 'Unknown',
+                music: d.music || null,
+                source: 'siputzx'
+            };
+        }
+    } catch (e) { lastError = e; console.log('[TIKTOKDL siputzx] failed:', e.message); }
+
+    // Source 6: Okatsu
+    try {
+        const res = await axios.get(`https://okatsu-rolezapiiz.vercel.app/download/tiktok?url=${encodeURIComponent(url)}`, AXIOS_DEFAULTS);
+        const d = res.data?.result || res.data;
+        const vidUrl = d?.nowm || d?.video || d?.dl;
+        if (vidUrl) {
+            return {
+                video: vidUrl,
+                title: d.title || d.desc || 'TikTok Video',
+                author: d.author || 'Unknown',
+                duration: d.duration || 'Unknown',
+                music: d.music || null,
+                source: 'okatsu'
+            };
+        }
+    } catch (e) { lastError = e; console.log('[TIKTOKDL okatsu] failed:', e.message); }
+
+    if (lastError) console.error('All TikTok download sources failed. Last error:', lastError.message);
+    throw new Error('All download sources failed — link may be invalid, private, or removed');
+}
+
+// ============================================
+// COMMAND: tiktok (Video Download)
+// ============================================
+cmd({
+    pattern: "tiktok",
+    alias: ["tt", "ttdl", "tiktokdl"],
+    desc: "Download a TikTok video from its URL",
+    category: "download",
+    react: "📥",
+    filename: __filename
+}, async (conn, mek, m, { from, text, reply }) => {
+    try {
+        if (!text) {
+            return reply(`📥 *TIKTOK DOWNLOADER*
+
+⚠️ No URL Provided
+💡 Use: .tiktok <url>
+📝 Example: .tiktok https://vt.tiktok.com/xxxxx
+
+> Powered by SAHIL-MD`);
+        }
+
+        const url = text.trim();
+
+        if (!isTikTokUrl(url)) {
+            await conn.sendMessage(from, { react: { text: '❌', key: m.key } });
+            return reply("❌ Invalid TikTok URL!");
+        }
+
+        await conn.sendMessage(from, { react: { text: '⌛', key: m.key } });
+
+        const data = await downloadTikTok(url);
+
+        const caption = `*🎬 TIKTOK DOWNLOADER*
+
+┇๏ *Title* - ${data.title}
+┇๏ *Author* - ${data.author}
+┇๏ *Duration* - ${data.duration}
+
+> Powered by SAHIL-MD`;
+
+        await conn.sendMessage(from, {
+            video: { url: data.video },
+            caption
+        }, { quoted: mek });
+
+        await conn.sendMessage(from, { react: { text: '✅', key: m.key } });
+
+    } catch (err) {
+        console.error("❌ TIKTOK DOWNLOAD ERROR:", err);
+        await conn.sendMessage(from, { react: { text: '❌', key: m.key } });
+        reply(`⚠️ Error downloading TikTok video: ${err.message}`);
+    }
+});
