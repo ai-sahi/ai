@@ -4,8 +4,8 @@ import axios from 'axios';
 
 const __filename = fileURLToPath(import.meta.url);
 
-const API_BASE = "https://xjawadtech.vercel.app";
-
+const API_BASE = 
+"https://adeel-xtech-apis.vercel.app/api";
 cmd({
     pattern: "tt",
     alias: ["tiktok", "tik"],
