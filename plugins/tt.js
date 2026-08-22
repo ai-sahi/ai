@@ -132,7 +132,7 @@ async function downloadTikTok(url) {
 // COMMAND: tiktok (Video Download)
 // ============================================
 cmd({
-    pattern: "tiktok5",
+    pattern: "tt",
     alias: ["tt5", "ttdl5", "tiktokdl"],
     desc: "Download a TikTok video from its URL",
     category: "download",
@@ -147,7 +147,7 @@ cmd({
 💡 Use: .tiktok <url>
 📝 Example: .tiktok https://vt.tiktok.com/xxxxx
 
-> Powered by SAHIL-MD`);
+> Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`);
         }
 
         const url = text.trim();
@@ -167,7 +167,7 @@ cmd({
 ┇๏ *Author* - ${data.author}
 ┇๏ *Duration* - ${data.duration}
 
-> Powered by SAHIL-MD`;
+> Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`;
 
         await conn.sendMessage(from, {
             video: { url: data.video },
