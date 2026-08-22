@@ -185,12 +185,7 @@ ${menuSections}
         }
 
         // Send message with image
-        await conn.sendMessage(from, {
-    audio: { url: "https://files.catbox.moe/atd575.mp3" },
-    mimetype: "audio/mpeg",
-    ptt: true
-});
-        await conn.sendMessage(from, { 
+            await conn.sendMessage(from, { 
             image: imageToSend,
             caption: dec, 
             contextInfo: { 
