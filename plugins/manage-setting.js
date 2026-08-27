@@ -7,7 +7,7 @@ import FormData from 'form-data';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// ERFAN-MD 
+// 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩 
 
 // ImgBB API Key (free, working)
 const IMGBB_API_KEY = '8db492efc937a635b90680a9a860dc85';
