@@ -30,7 +30,8 @@ async (conn, mek, m, { from, reply }) => {
 │
 ╰─────────────────
 
-> *ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ꜱᴛᴀʀᴛ* 🎉`;
+*ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ꜱᴛᴀʀᴛ* 🎉
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*`;
 
         await conn.sendMessage(from, {
             text: message,
