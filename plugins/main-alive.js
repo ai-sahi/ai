@@ -12,7 +12,7 @@ const __dirname = path.dirname(__filename);
 cmd({
     pattern: "alive",
     alias: ["𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩", "status", "𝐒𝐀𝐇𝐈𝐋", "test", "a"],
-    react: "💚",
+    react: "💚" "Sahil" "S",
     desc: "Check if bot is alive with image, video note and live ping",
     category: "main",
     use: ".alive",
@@ -24,7 +24,7 @@ async (conn, mek, m, { from, sender, reply }) => {
         const startTime = Date.now();
         
         // URLs
-        const imageUrl = "https://files.catbox.moe/nysjhm.jpg";
+        const imageUrl = "https://i.ibb.co/ynK4sYBM/ERFAN-MD.jpg";
         const videoNoteUrl = "https://files.catbox.moe/t9dj8o.mp4";
         
         // Calculate ping
