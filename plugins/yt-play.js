@@ -64,7 +64,7 @@ cmd({
 
         await conn.sendMessage(from, {
             image: { url: vid.thumbnail },
-            caption: `- *AUDIO DOWNLOADER 🎧*\n╭━━❐━⪼\n┇๏ *Title* - ${vid.title}\n┇๏ *Duration* - ${vid.timestamp}\n┇๏ *Views* - ${vid.views?.toLocaleString() || 'N/A'}\n┇๏ *Author* - ${vid.author?.name || 'Unknown'}\n┇๏ *Status* - Downloading...\n╰━━❑━⪼\n> Powered by ERFAN`
+            caption: `- *AUDIO DOWNLOADER 🎧*\n╭━━❐━⪼\n┇๏ *Title* - ${vid.title}\n┇๏ *Duration* - ${vid.timestamp}\n┇๏ *Views* - ${vid.views?.toLocaleString() || 'N/A'}\n┇๏ *Author* - ${vid.author?.name || 'Unknown'}\n┇๏ *Status* - Downloading...\n╰━━❑━⪼\n> Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
         }, { quoted: mek });
 
         let audioUrl = null;
@@ -154,7 +154,7 @@ cmd({
 
         await conn.sendMessage(from, {
             image: { url: vid.thumbnail },
-            caption: `*🎬 VIDEO DOWNLOADER*\n\n🎞️ *Title:* ${vid.title}\n📺 *Channel:* ${vid.author?.name || 'Unknown'}\n🕒 *Duration:* ${vid.timestamp}\n\n*Status:* Downloading Video...\n\n> Powered by SAHIL-MD`
+            caption: `*🎬 VIDEO DOWNLOADER*\n\n🎞️ *Title:* ${vid.title}\n📺 *Channel:* ${vid.author?.name || 'Unknown'}\n🕒 *Duration:* ${vid.timestamp}\n\n*Status:* Downloading Video...\n\n> Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
         }, { quoted: mek });
 
         let videoUrl = null;
@@ -175,7 +175,7 @@ cmd({
                     if (videoUrl) {
                         await conn.sendMessage(from, {
                             video: { url: videoUrl },
-                            caption: `🎬 *${vid.title}*\n\n> Powered by SAHIL-MD`
+                            caption: `🎬 *${vid.title}*\n\n> Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
                         }, { quoted: mek });
                         success = true;
                         break;
@@ -246,7 +246,7 @@ cmd({
 *┋ ⬡ 2* 📹 ${toSmallCaps('Video (MP4)')}
 *╰───────────────────⊷*
 
-> Powered by SAHIL-MD`;
+> Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`;
 
         const sent = await conn.sendMessage(from, {
             image: { url: vid.thumbnail },
@@ -329,7 +329,7 @@ cmd({
                                     if (videoUrl) {
                                         await conn.sendMessage(from, {
                                             video: { url: videoUrl },
-                                            caption: `🎬 *${vid.title}*\n\n> Powered by SAHIL-MD`
+                                            caption: `🎬 *${vid.title}*\n\n> Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
                                         }, { quoted: received });
                                         success = true;
                                         break;
