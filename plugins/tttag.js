@@ -161,7 +161,7 @@ ${popular}
         message += `
 ━━━━━━━━━━━━━━━━━━
 ⏱️ *Response:* ${data.response_time || 'N/A'}
-*© Powered by ERFAN-MD*
+*© Powered by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*
 `;
 
         // ── Send Response ──
