@@ -51,7 +51,7 @@ async (conn, mek, m, { from, q, reply, react }) => {
             `👤 *Creator:* ${data.creator || 'Unknown'}\n` +
             `🖥 *Server:* ${data.server || 'Unknown'}\n\n` +
             `*Status:* Downloading media... Please wait.\n\n` +
-            `> *IT'S ERFAN AHMAD*`
+            `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*`
         }, { quoted: mek });
 
         // Send the video - FIXED: Stream directly from URL like working YouTube command
