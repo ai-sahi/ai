@@ -45,7 +45,7 @@ cmd({
                 `*Media without caption:*\n` +
                 `  Reply to any media with \`.gstatus\`\n\n` +
                 `━━━━━━━━━━━━━━━━━━\n` +
-                `~ *SAHIL-MD*`
+                `𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩`
             );
         }
 
