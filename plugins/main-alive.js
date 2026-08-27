@@ -11,8 +11,8 @@ const __dirname = path.dirname(__filename);
 
 cmd({
     pattern: "alive",
-    alias: ["𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩", "status", "𝐒𝐀𝐇𝐈𝐋", "test", "a"],
-    react: "💚" "Sahil" "S",
+    alias: ["𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩", "status", "𝐒𝐀𝐇𝐈𝐋", "test", "sahil", "a"],
+    react: "💗",
     desc: "Check if bot is alive with image, video note and live ping",
     category: "main",
     use: ".alive",
