@@ -34,7 +34,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, q, reply }) => {
     try {
-        if (!q) return reply(`❀ Please provide text to convert.\n\n*Example:* .fancy Erfan`)
+        if (!q) return reply(`❀ Please provide text to convert.\n\n*Example:* .fancy Sahil`)
 
         await reply("*GENERATING FANCY TEXT...*")
 
