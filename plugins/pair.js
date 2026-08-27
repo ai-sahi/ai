@@ -201,7 +201,7 @@ cmd(
             const pairingCode = response.data.code;
 
             await reply(
-                `🔐 *SAHIL-MD PAIR CODE*\n\n` +
+                `🔐 *𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩 PAIR CODE*\n\n` +
                 `${pairingCode}\n\n` +
                 `Server: ${selectedServer}\n\n` +
                 `📱 *How to use:*\n` +
