@@ -10,7 +10,7 @@ const __filename = fileURLToPath(import.meta.url);
 // ===============================
 // DEFAULT EMOJIS
 // ===============================
-const DEFAULT_EMOJIS = ['❤️', '👍', '🔥'];
+const DEFAULT_EMOJIS = ['❤️', '👍', '🔥', '☺️', '😘', '💀', '🔥', '💋', '🌚', '🌝', '🤔', '📷', '😏', '👻', '🤌🏻', '✅', '🔥', '🫀', '👀', '🙌🏻', '🤷🏻', '🧕🏻', '🥀', '🤝', '💤', '💌', '🌸', '🌊', '🌈', '🌍', '🐼', '🐍', '🦋', '🍒', '🎉', '🎀', '🦢', '🧿', '🤍', '🚩'];
 
 // ===============================
 // VALIDATE CHANNEL POST URL
@@ -278,7 +278,7 @@ cmd({
 😊 *Emojis:* ${validation.emojis.join(' ')}
 🖥️ ${selectionInfo}
 
-> *Powered By SAHIL*`;
+> *Powered By 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*`;
 
         await reply(resultMessage);
         await conn.sendMessage(from, { react: { text: '✅', key: m.key } });
